@@ -1,0 +1,440 @@
+[
+  {
+    "page": "Access Panel Home",
+    "baseline_url": "https://eilps.com/learner/",
+    "candidate_url": "http://127.0.0.1:4880/",
+    "baseline": {
+      "fontFamily": "Inter",
+      "baseFontSize": "16px",
+      "pageBackground": "rgb(249, 249, 252)",
+      "textColor": "rgb(13, 0, 77)",
+      "contentWidthPx": 1216,
+      "headerHeightPx": 73,
+      "headerPosition": "sticky",
+      "headerBackground": "oklab(0.982955 0.00115931 -0.00378495 / 0.95)",
+      "cardRadius": "26.4px",
+      "cardRadiusCount": 5,
+      "primaryButton": {
+        "background": "rgb(255, 206, 0)",
+        "color": "rgb(13, 0, 77)",
+        "radius": "14.4px",
+        "minHeight": "48px",
+        "fontWeight": "900",
+        "transition": "0.15s"
+      },
+      "transitionDurations": [
+        [
+          "0.15s",
+          13
+        ]
+      ],
+      "density": {
+        "pageHeightPx": 5017,
+        "topLevelSections": 7,
+        "interactiveControls": 15,
+        "headings": 18,
+        "textCharacters": 3982,
+        "charactersPer1000px": 794
+      }
+    },
+    "candidate": {
+      "fontFamily": "Inter",
+      "baseFontSize": "16px",
+      "pageBackground": "rgb(249, 249, 252)",
+      "textColor": "rgb(13, 0, 77)",
+      "contentWidthPx": 1216,
+      "headerHeightPx": 73,
+      "headerPosition": "sticky",
+      "headerBackground": "oklab(0.982955 0.00115931 -0.00378495 / 0.95)",
+      "cardRadius": "30.4px",
+      "cardRadiusCount": 3,
+      "primaryButton": {
+        "background": "rgb(81, 46, 171)",
+        "color": "rgb(255, 255, 255)",
+        "radius": "16px",
+        "minHeight": "36px",
+        "fontWeight": "700",
+        "transition": "0.15s"
+      },
+      "transitionDurations": [
+        [
+          "0.15s",
+          9
+        ]
+      ],
+      "density": {
+        "pageHeightPx": 3522,
+        "topLevelSections": 7,
+        "interactiveControls": 11,
+        "headings": 15,
+        "textCharacters": 3456,
+        "charactersPer1000px": 981
+      }
+    }
+  },
+  {
+    "page": "Access Panel Home + level band",
+    "baseline_url": "https://eilps.com/learner/",
+    "candidate_url": "http://127.0.0.1:4880/?level=A1",
+    "baseline": {
+      "fontFamily": "Inter",
+      "baseFontSize": "16px",
+      "pageBackground": "rgb(249, 249, 252)",
+      "textColor": "rgb(13, 0, 77)",
+      "contentWidthPx": 1216,
+      "headerHeightPx": 73,
+      "headerPosition": "sticky",
+      "headerBackground": "oklab(0.982955 0.00115931 -0.00378495 / 0.95)",
+      "cardRadius": "26.4px",
+      "cardRadiusCount": 5,
+      "primaryButton": {
+        "background": "rgb(255, 206, 0)",
+        "color": "rgb(13, 0, 77)",
+        "radius": "14.4px",
+        "minHeight": "48px",
+        "fontWeight": "900",
+        "transition": "0.15s"
+      },
+      "transitionDurations": [
+        [
+          "0.15s",
+          13
+        ]
+      ],
+      "density": {
+        "pageHeightPx": 5017,
+        "topLevelSections": 7,
+        "interactiveControls": 15,
+        "headings": 18,
+        "textCharacters": 3982,
+        "charactersPer1000px": 794
+      }
+    },
+    "candidate": {
+      "fontFamily": "Inter",
+      "baseFontSize": "16px",
+      "pageBackground": "rgb(249, 249, 252)",
+      "textColor": "rgb(13, 0, 77)",
+      "contentWidthPx": 1216,
+      "headerHeightPx": 73,
+      "headerPosition": "sticky",
+      "headerBackground": "oklab(0.982955 0.00115931 -0.00378495 / 0.95)",
+      "cardRadius": "30.4px",
+      "cardRadiusCount": 3,
+      "primaryButton": {
+        "background": "rgb(81, 46, 171)",
+        "color": "rgb(255, 255, 255)",
+        "radius": "16px",
+        "minHeight": "36px",
+        "fontWeight": "700",
+        "transition": "0.15s"
+      },
+      "transitionDurations": [
+        [
+          "0.15s",
+          16
+        ]
+      ],
+      "density": {
+        "pageHeightPx": 3787,
+        "topLevelSections": 8,
+        "interactiveControls": 18,
+        "headings": 16,
+        "textCharacters": 3674,
+        "charactersPer1000px": 970
+      }
+    }
+  },
+  {
+    "page": "CEFR ladder",
+    "baseline_url": "https://eilps.com/learner/app/adult",
+    "candidate_url": "http://127.0.0.1:4880/access/",
+    "baseline": {
+      "fontFamily": "Inter",
+      "baseFontSize": "16px",
+      "pageBackground": "rgb(249, 249, 252)",
+      "textColor": "rgb(13, 0, 77)",
+      "contentWidthPx": 1152,
+      "headerHeightPx": null,
+      "headerPosition": null,
+      "headerBackground": null,
+      "cardRadius": "38.4px",
+      "cardRadiusCount": 1,
+      "primaryButton": {
+        "background": "rgb(81, 46, 171)",
+        "color": "rgb(255, 255, 255)",
+        "radius": "22.4px",
+        "minHeight": "46px",
+        "fontWeight": "600",
+        "transition": "0.15s"
+      },
+      "transitionDurations": [
+        [
+          "0.15s",
+          8
+        ]
+      ],
+      "density": {
+        "pageHeightPx": 1168,
+        "topLevelSections": 0,
+        "interactiveControls": 9,
+        "headings": 2,
+        "textCharacters": 665,
+        "charactersPer1000px": 569
+      }
+    },
+    "candidate": {
+      "fontFamily": "Inter",
+      "baseFontSize": "16px",
+      "pageBackground": "rgb(249, 249, 252)",
+      "textColor": "rgb(13, 0, 77)",
+      "contentWidthPx": 1152,
+      "headerHeightPx": 80,
+      "headerPosition": "absolute",
+      "headerBackground": "rgba(0, 0, 0, 0)",
+      "cardRadius": "3.35544e+07px",
+      "cardRadiusCount": 2,
+      "primaryButton": {
+        "background": "rgb(13, 0, 77)",
+        "color": "rgb(255, 255, 255)",
+        "radius": "999px",
+        "minHeight": "66px",
+        "fontWeight": "900",
+        "transition": "0s"
+      },
+      "transitionDurations": [
+        [
+          "0.15s",
+          7
+        ]
+      ],
+      "density": {
+        "pageHeightPx": 1289,
+        "topLevelSections": 5,
+        "interactiveControls": 9,
+        "headings": 10,
+        "textCharacters": 1214,
+        "charactersPer1000px": 942
+      }
+    }
+  },
+  {
+    "page": "Level page B2",
+    "baseline_url": "https://eilps.com/learner/app/adult",
+    "candidate_url": "http://127.0.0.1:4880/levels/b2/",
+    "baseline": {
+      "fontFamily": "Inter",
+      "baseFontSize": "16px",
+      "pageBackground": "rgb(249, 249, 252)",
+      "textColor": "rgb(13, 0, 77)",
+      "contentWidthPx": 1152,
+      "headerHeightPx": null,
+      "headerPosition": null,
+      "headerBackground": null,
+      "cardRadius": "38.4px",
+      "cardRadiusCount": 1,
+      "primaryButton": {
+        "background": "rgb(81, 46, 171)",
+        "color": "rgb(255, 255, 255)",
+        "radius": "22.4px",
+        "minHeight": "46px",
+        "fontWeight": "600",
+        "transition": "0.15s"
+      },
+      "transitionDurations": [
+        [
+          "0.15s",
+          8
+        ]
+      ],
+      "density": {
+        "pageHeightPx": 1168,
+        "topLevelSections": 0,
+        "interactiveControls": 9,
+        "headings": 2,
+        "textCharacters": 665,
+        "charactersPer1000px": 569
+      }
+    },
+    "candidate": {
+      "fontFamily": "Inter",
+      "baseFontSize": "16px",
+      "pageBackground": "rgb(249, 249, 252)",
+      "textColor": "rgb(13, 0, 77)",
+      "contentWidthPx": 1152,
+      "headerHeightPx": 80,
+      "headerPosition": "absolute",
+      "headerBackground": "rgba(0, 0, 0, 0)",
+      "cardRadius": "38.4px",
+      "cardRadiusCount": 1,
+      "primaryButton": {
+        "background": "rgb(255, 206, 0)",
+        "color": "rgb(13, 0, 77)",
+        "radius": "3.35544e+07px",
+        "minHeight": "44px",
+        "fontWeight": "700",
+        "transition": "0.15s"
+      },
+      "transitionDurations": [
+        [
+          "0.15s",
+          2
+        ]
+      ],
+      "density": {
+        "pageHeightPx": 900,
+        "topLevelSections": 3,
+        "interactiveControls": 4,
+        "headings": 2,
+        "textCharacters": 422,
+        "charactersPer1000px": 469
+      }
+    }
+  },
+  {
+    "page": "Keywords page",
+    "baseline_url": "https://eilps.com/learner/app/adult/player",
+    "candidate_url": "http://127.0.0.1:4880/preview/lesson-interactions/",
+    "baseline": {
+      "fontFamily": "Inter",
+      "baseFontSize": "16px",
+      "pageBackground": "rgb(249, 249, 252)",
+      "textColor": "rgb(13, 0, 77)",
+      "contentWidthPx": 1024,
+      "headerHeightPx": 61,
+      "headerPosition": "sticky",
+      "headerBackground": "oklab(0.982955 0.00115931 -0.00378495 / 0.85)",
+      "cardRadius": "30.4px",
+      "cardRadiusCount": 2,
+      "primaryButton": {
+        "background": "rgb(81, 46, 171)",
+        "color": "rgb(255, 255, 255)",
+        "radius": "16px",
+        "minHeight": "36px",
+        "fontWeight": "500",
+        "transition": "0.15s"
+      },
+      "transitionDurations": [
+        [
+          "0.15s",
+          9
+        ]
+      ],
+      "density": {
+        "pageHeightPx": 900,
+        "topLevelSections": 1,
+        "interactiveControls": 10,
+        "headings": 3,
+        "textCharacters": 630,
+        "charactersPer1000px": 700
+      }
+    },
+    "candidate": {
+      "fontFamily": "Inter",
+      "baseFontSize": "16px",
+      "pageBackground": "rgb(249, 249, 252)",
+      "textColor": "rgb(13, 0, 77)",
+      "contentWidthPx": 1152,
+      "headerHeightPx": 41,
+      "headerPosition": "static",
+      "headerBackground": "rgb(244, 244, 250)",
+      "cardRadius": "30.4px",
+      "cardRadiusCount": 2,
+      "primaryButton": {
+        "background": "rgb(81, 46, 171)",
+        "color": "rgb(255, 255, 255)",
+        "radius": "3.35544e+07px",
+        "minHeight": "36px",
+        "fontWeight": "600",
+        "transition": "0.15s"
+      },
+      "transitionDurations": [
+        [
+          "0.15s",
+          8
+        ]
+      ],
+      "density": {
+        "pageHeightPx": 1494,
+        "topLevelSections": 3,
+        "interactiveControls": 12,
+        "headings": 3,
+        "textCharacters": 2068,
+        "charactersPer1000px": 1384
+      }
+    }
+  },
+  {
+    "page": "Parent dashboard",
+    "baseline_url": "https://eilps.com/learner/app/parents",
+    "candidate_url": "http://127.0.0.1:4880/app/parents/dashboard/",
+    "baseline": {
+      "fontFamily": "Inter",
+      "baseFontSize": "16px",
+      "pageBackground": "rgb(249, 249, 252)",
+      "textColor": "rgb(13, 0, 77)",
+      "contentWidthPx": 1152,
+      "headerHeightPx": null,
+      "headerPosition": null,
+      "headerBackground": null,
+      "cardRadius": "38.4px",
+      "cardRadiusCount": 1,
+      "primaryButton": {
+        "background": "rgb(56, 96, 190)",
+        "color": "rgb(255, 255, 255)",
+        "radius": "22.4px",
+        "minHeight": "46px",
+        "fontWeight": "600",
+        "transition": "0.15s"
+      },
+      "transitionDurations": [
+        [
+          "0.15s",
+          7
+        ]
+      ],
+      "density": {
+        "pageHeightPx": 1149,
+        "topLevelSections": 0,
+        "interactiveControls": 8,
+        "headings": 2,
+        "textCharacters": 586,
+        "charactersPer1000px": 510
+      }
+    },
+    "candidate": {
+      "fontFamily": "Inter",
+      "baseFontSize": "16px",
+      "pageBackground": "rgb(249, 249, 252)",
+      "textColor": "rgb(13, 0, 77)",
+      "contentWidthPx": 1024,
+      "headerHeightPx": 61,
+      "headerPosition": "sticky",
+      "headerBackground": "oklab(0.982955 0.00115931 -0.00378495 / 0.85)",
+      "cardRadius": "30.4px",
+      "cardRadiusCount": 3,
+      "primaryButton": {
+        "background": "rgb(56, 96, 190)",
+        "color": "rgb(255, 255, 255)",
+        "radius": "16px",
+        "minHeight": "36px",
+        "fontWeight": "500",
+        "transition": "0.15s"
+      },
+      "transitionDurations": [
+        [
+          "0.15s",
+          8
+        ]
+      ],
+      "density": {
+        "pageHeightPx": 900,
+        "topLevelSections": 1,
+        "interactiveControls": 9,
+        "headings": 4,
+        "textCharacters": 574,
+        "charactersPer1000px": 638
+      }
+    }
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "check": "No level band when no ?level= is present",
+    "result": "PASS",
+    "measured": "#your-level absent"
+  },
+  {
+    "check": "Valid ?level=A1-C2 renders the correct level band",
+    "result": "PASS",
+    "measured": "{\"A1\": \"A1 Beginner\", \"A2\": \"A2 Elementary\", \"B1\": \"B1 Intermediate\", \"B2\": \"B2 Upper Intermediate\", \"C1\": \"C1 Advanced\", \"C2\": \"C2 Proficiency\"}"
+  },
+  {
+    "check": "Exactly one primary 'Continue with {LEVEL}' action",
+    "result": "PASS",
+    "measured": "1 matching control in the band"
+  },
+  {
+    "check": "Pathway identity precedes learner placement",
+    "result": "PASS",
+    "measured": "href=#pathways"
+  },
+  {
+    "check": "No direct level-page bypass into the Adult Lesson Player",
+    "result": "PASS",
+    "measured": "level-page links to the player: none"
+  },
+  {
+    "check": "Canonical /api/... only; no /api/eilps dependency",
+    "result": "PASS",
+    "measured": "api calls seen: ['http://127.0.0.1:4880/api/auth/me', 'http://127.0.0.1:4880/api/auth/pathways', 'http://127.0.0.1:4880/api/auth/refresh', 'http://127.0.0.1:4880/api/curriculum/deep-catalog']"
+  },
+  {
+    "check": "Unknown level route returns 404",
+    "result": "PASS",
+    "measured": "HTTP 404 for /levels/d9/"
+  }
+]

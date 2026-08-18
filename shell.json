@@ -1,0 +1,476 @@
+{
+  "BASELINE live /learner/": {
+    "shell": {
+      "tag": "main",
+      "bg": "rgb(249, 249, 252)",
+      "w": 1280
+    },
+    "bodyBg": "rgb(249, 249, 252)",
+    "headingFont": "Bricolage Grotesque",
+    "headingText": "Welcome to IELPS",
+    "bodyFont": "Inter",
+    "filledControls": [
+      {
+        "text": "Choose your pathway",
+        "bg": "rgb(255, 206, 0)",
+        "color": "rgb(13, 0, 77)",
+        "radius": "14.4px",
+        "h": 48,
+        "weight": "900"
+      },
+      {
+        "text": "Preview placement",
+        "bg": "oklab(0.999994 0.0000455678 0.0000200868 / 0.04)",
+        "color": "rgb(255, 255, 255)",
+        "radius": "14.4px",
+        "h": 48,
+        "weight": "700"
+      },
+      {
+        "text": "Uses the source evidence and",
+        "bg": "rgb(255, 255, 255)",
+        "color": "rgb(13, 0, 77)",
+        "radius": "14.4px",
+        "h": 46,
+        "weight": "600"
+      },
+      {
+        "text": "A vague answer that does not",
+        "bg": "rgb(255, 255, 255)",
+        "color": "rgb(13, 0, 77)",
+        "radius": "14.4px",
+        "h": 46,
+        "weight": "600"
+      },
+      {
+        "text": "An answer with a grammar pro",
+        "bg": "rgb(255, 255, 255)",
+        "color": "rgb(13, 0, 77)",
+        "radius": "14.4px",
+        "h": 46,
+        "weight": "600"
+      },
+      {
+        "text": "An answer that changes the p",
+        "bg": "rgb(255, 255, 255)",
+        "color": "rgb(13, 0, 77)",
+        "radius": "14.4px",
+        "h": 46,
+        "weight": "600"
+      }
+    ]
+  },
+  "BASELINE live /learner/app/adult": {
+    "shell": {
+      "tag": "div",
+      "bg": "rgb(249, 249, 252)",
+      "w": 1280
+    },
+    "bodyBg": "rgb(249, 249, 252)",
+    "headingFont": "Bricolage Grotesque",
+    "headingText": "Placement to fluency, on your schedule",
+    "bodyFont": "Inter",
+    "filledControls": [
+      {
+        "text": "Start onboarding",
+        "bg": "rgb(81, 46, 171)",
+        "color": "rgb(255, 255, 255)",
+        "radius": "22.4px",
+        "h": 46,
+        "weight": "600"
+      },
+      {
+        "text": "Open dashboard",
+        "bg": "rgb(255, 255, 255)",
+        "color": "rgb(13, 0, 77)",
+        "radius": "22.4px",
+        "h": 46,
+        "weight": "600"
+      },
+      {
+        "text": "Continue my lesson \u2014 15-step",
+        "bg": "rgb(255, 255, 255)",
+        "color": "rgb(81, 46, 171)",
+        "radius": "22.4px",
+        "h": 42,
+        "weight": "600"
+      },
+      {
+        "text": "My Course\n\nPick up where you",
+        "bg": "rgb(255, 255, 255)",
+        "color": "rgb(13, 0, 77)",
+        "radius": "30.4px",
+        "h": 189,
+        "weight": "400"
+      },
+      {
+        "text": "Lesson Player\n\nThe authorita",
+        "bg": "rgb(255, 255, 255)",
+        "color": "rgb(13, 0, 77)",
+        "radius": "30.4px",
+        "h": 189,
+        "weight": "400"
+      },
+      {
+        "text": "Discover\n\nExplore extra cont",
+        "bg": "rgb(255, 255, 255)",
+        "color": "rgb(13, 0, 77)",
+        "radius": "30.4px",
+        "h": 189,
+        "weight": "400"
+      }
+    ]
+  },
+  "BASELINE live /learner/app/adult/learner (lesson player)": {
+    "shell": {
+      "tag": "div",
+      "bg": "rgb(249, 249, 252)",
+      "w": 1280
+    },
+    "bodyBg": "rgb(249, 249, 252)",
+    "headingFont": "Inter",
+    "headingText": "Language Focus: First Words and Classroom English",
+    "bodyFont": "Inter",
+    "filledControls": [
+      {
+        "text": "Play lesson intro",
+        "bg": "oklab(0.425517 0.0596828 -0.176024 / 0.1)",
+        "color": "rgb(81, 46, 171)",
+        "radius": "3.35544e+07px",
+        "h": 32,
+        "weight": "500"
+      },
+      {
+        "text": "Start lesson",
+        "bg": "rgb(81, 46, 171)",
+        "color": "rgb(255, 255, 255)",
+        "radius": "3.35544e+07px",
+        "h": 40,
+        "weight": "600"
+      },
+      {
+        "text": "Hi, I\u2019m PiP!",
+        "bg": "rgb(13, 0, 77)",
+        "color": "rgb(255, 255, 255)",
+        "radius": "999px",
+        "h": 66,
+        "weight": "900"
+      }
+    ]
+  },
+  "BASELINE live /learner/app/parents/dashboard": {
+    "shell": {
+      "tag": "div",
+      "bg": "rgb(249, 249, 252)",
+      "w": 1280
+    },
+    "bodyBg": "rgb(249, 249, 252)",
+    "headingFont": "Bricolage Grotesque",
+    "headingText": "Family overview",
+    "bodyFont": "Inter",
+    "filledControls": [
+      {
+        "text": "Overview",
+        "bg": "rgb(56, 96, 190)",
+        "color": "rgb(255, 255, 255)",
+        "radius": "16px",
+        "h": 36,
+        "weight": "500"
+      },
+      {
+        "text": "Preview child lesson",
+        "bg": "rgb(56, 96, 190)",
+        "color": "rgb(255, 255, 255)",
+        "radius": "16px",
+        "h": 36,
+        "weight": "600"
+      },
+      {
+        "text": "Server wiring\n8",
+        "bg": "rgb(255, 255, 255)",
+        "color": "rgb(85, 85, 85)",
+        "radius": "16px",
+        "h": 35,
+        "weight": "500"
+      },
+      {
+        "text": "A2 \u00b7 6 day streak\nView\n\nElli",
+        "bg": "rgb(244, 244, 250)",
+        "color": "rgb(13, 0, 77)",
+        "radius": "22.4px",
+        "h": 138,
+        "weight": "400"
+      },
+      {
+        "text": "B1 \u00b7 3 day streak\nView\n\nMax\n",
+        "bg": "rgb(244, 244, 250)",
+        "color": "rgb(13, 0, 77)",
+        "radius": "22.4px",
+        "h": 138,
+        "weight": "400"
+      },
+      {
+        "text": "Hi, I\u2019m PiP!",
+        "bg": "rgb(13, 0, 77)",
+        "color": "rgb(255, 255, 255)",
+        "radius": "999px",
+        "h": 66,
+        "weight": "900"
+      }
+    ]
+  },
+  "CANDIDATE / (Access Panel Home)": {
+    "shell": {
+      "tag": "main",
+      "bg": "rgb(249, 249, 252)",
+      "w": 1280
+    },
+    "bodyBg": "rgb(249, 249, 252)",
+    "headingFont": "Bricolage Grotesque",
+    "headingText": "Welcome to IELPS",
+    "bodyFont": "Inter",
+    "filledControls": [
+      {
+        "text": "Sign in",
+        "bg": "rgb(81, 46, 171)",
+        "color": "rgb(255, 255, 255)",
+        "radius": "16px",
+        "h": 36,
+        "weight": "700"
+      },
+      {
+        "text": "Choose your pathway",
+        "bg": "rgb(255, 206, 0)",
+        "color": "rgb(13, 0, 77)",
+        "radius": "16px",
+        "h": 48,
+        "weight": "900"
+      },
+      {
+        "text": "Hi, I\u2019m PiP!",
+        "bg": "rgb(13, 0, 77)",
+        "color": "rgb(255, 255, 255)",
+        "radius": "999px",
+        "h": 66,
+        "weight": "900"
+      }
+    ]
+  },
+  "CANDIDATE /?level=A1": {
+    "shell": {
+      "tag": "main",
+      "bg": "rgb(249, 249, 252)",
+      "w": 1280
+    },
+    "bodyBg": "rgb(249, 249, 252)",
+    "headingFont": "Bricolage Grotesque",
+    "headingText": "Welcome to IELPS",
+    "bodyFont": "Inter",
+    "filledControls": [
+      {
+        "text": "Sign in",
+        "bg": "rgb(81, 46, 171)",
+        "color": "rgb(255, 255, 255)",
+        "radius": "16px",
+        "h": 36,
+        "weight": "700"
+      },
+      {
+        "text": "Choose your pathway",
+        "bg": "rgb(255, 206, 0)",
+        "color": "rgb(13, 0, 77)",
+        "radius": "16px",
+        "h": 48,
+        "weight": "900"
+      },
+      {
+        "text": "Continue with A1",
+        "bg": "rgb(255, 206, 0)",
+        "color": "rgb(13, 0, 77)",
+        "radius": "16px",
+        "h": 44,
+        "weight": "900"
+      },
+      {
+        "text": "A1",
+        "bg": "oklab(0.753305 -0.119785 -0.0302694 / 0.1)",
+        "color": "rgb(13, 0, 77)",
+        "radius": "3.35544e+07px",
+        "h": 32,
+        "weight": "900"
+      },
+      {
+        "text": "A2",
+        "bg": "rgb(249, 249, 252)",
+        "color": "rgb(85, 85, 85)",
+        "radius": "3.35544e+07px",
+        "h": 32,
+        "weight": "900"
+      },
+      {
+        "text": "B1",
+        "bg": "rgb(249, 249, 252)",
+        "color": "rgb(85, 85, 85)",
+        "radius": "3.35544e+07px",
+        "h": 32,
+        "weight": "900"
+      }
+    ]
+  },
+  "CANDIDATE /access/ (CEFR ladder)": {
+    "shell": {
+      "tag": "main",
+      "bg": "rgb(13, 0, 77)",
+      "w": 1280
+    },
+    "bodyBg": "rgb(249, 249, 252)",
+    "headingFont": "Plus Jakarta Sans",
+    "headingText": "Find the level that speaks your English.",
+    "bodyFont": "Inter",
+    "filledControls": [
+      {
+        "text": "Hi, I\u2019m PiP!",
+        "bg": "rgb(13, 0, 77)",
+        "color": "rgb(255, 255, 255)",
+        "radius": "999px",
+        "h": 66,
+        "weight": "900"
+      }
+    ]
+  },
+  "CANDIDATE /levels/b2/": {
+    "shell": {
+      "tag": "main",
+      "bg": "rgb(13, 0, 77)",
+      "w": 1280
+    },
+    "bodyBg": "rgb(249, 249, 252)",
+    "headingFont": "Plus Jakarta Sans",
+    "headingText": "Upper Intermediate",
+    "bodyFont": "Inter",
+    "filledControls": [
+      {
+        "text": "Continue with B2",
+        "bg": "rgb(255, 206, 0)",
+        "color": "rgb(13, 0, 77)",
+        "radius": "3.35544e+07px",
+        "h": 44,
+        "weight": "700"
+      },
+      {
+        "text": "Hi, I\u2019m PiP!",
+        "bg": "rgb(13, 0, 77)",
+        "color": "rgb(255, 255, 255)",
+        "radius": "999px",
+        "h": 66,
+        "weight": "900"
+      }
+    ]
+  },
+  "CANDIDATE /preview/lesson-interactions/ (Keywords)": {
+    "shell": {
+      "tag": "main",
+      "bg": "rgb(249, 249, 252)",
+      "w": 1280
+    },
+    "bodyBg": "rgb(249, 249, 252)",
+    "headingFont": "Bricolage Grotesque",
+    "headingText": "Reading activity \u2014 expansion window",
+    "bodyFont": "Inter",
+    "filledControls": [
+      {
+        "text": "Open the full reading",
+        "bg": "rgb(81, 46, 171)",
+        "color": "rgb(255, 255, 255)",
+        "radius": "3.35544e+07px",
+        "h": 36,
+        "weight": "600"
+      },
+      {
+        "text": "She is asking for directions",
+        "bg": "rgb(255, 255, 255)",
+        "color": "rgb(13, 0, 77)",
+        "radius": "22.4px",
+        "h": 46,
+        "weight": "400"
+      },
+      {
+        "text": "She is buying a ticket for t",
+        "bg": "rgb(255, 255, 255)",
+        "color": "rgb(13, 0, 77)",
+        "radius": "22.4px",
+        "h": 46,
+        "weight": "400"
+      },
+      {
+        "text": "She is complaining about a d",
+        "bg": "rgb(255, 255, 255)",
+        "color": "rgb(13, 0, 77)",
+        "radius": "22.4px",
+        "h": 46,
+        "weight": "400"
+      },
+      {
+        "text": "Open the writing window",
+        "bg": "rgb(56, 96, 190)",
+        "color": "rgb(255, 255, 255)",
+        "radius": "3.35544e+07px",
+        "h": 36,
+        "weight": "600"
+      },
+      {
+        "text": "book",
+        "bg": "rgb(255, 255, 255)",
+        "color": "rgb(13, 0, 77)",
+        "radius": "3.35544e+07px",
+        "h": 38,
+        "weight": "500"
+      }
+    ]
+  },
+  "CANDIDATE /app/parents/dashboard/": {
+    "shell": {
+      "tag": "div",
+      "bg": "rgb(249, 249, 252)",
+      "w": 1280
+    },
+    "bodyBg": "rgb(249, 249, 252)",
+    "headingFont": "Bricolage Grotesque",
+    "headingText": "Family overview",
+    "bodyFont": "Inter",
+    "filledControls": [
+      {
+        "text": "Overview",
+        "bg": "rgb(56, 96, 190)",
+        "color": "rgb(255, 255, 255)",
+        "radius": "16px",
+        "h": 36,
+        "weight": "500"
+      },
+      {
+        "text": "Preview child lesson",
+        "bg": "rgb(56, 96, 190)",
+        "color": "rgb(255, 255, 255)",
+        "radius": "16px",
+        "h": 36,
+        "weight": "600"
+      },
+      {
+        "text": "Server wiring\n8",
+        "bg": "rgb(255, 255, 255)",
+        "color": "rgb(85, 85, 85)",
+        "radius": "16px",
+        "h": 35,
+        "weight": "500"
+      },
+      {
+        "text": "Hi, I\u2019m PiP!",
+        "bg": "rgb(13, 0, 77)",
+        "color": "rgb(255, 255, 255)",
+        "radius": "999px",
+        "h": 66,
+        "weight": "900"
+      }
+    ]
+  }
+}
